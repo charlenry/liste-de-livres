@@ -25,7 +25,6 @@ yarn-error.log*
 .vscode/
 .gitignore
 desktop.ini
-jsconfig.json
 *.zip
 
 
