@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Sigmar One';
+    src: local("Sigmar One"),
+         url(../../assets/fonts/Sigmar_One/SigmarOne-Regular.ttf);
+}
+  
+/* @import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap'); */
+  
+.policeTitre {
+    font-family: 'Sigmar One', cursive, sans-serif;
+    font-weight: 400px;
+}
+.policeTitre:hover {
+    color: orange !important;
+}
